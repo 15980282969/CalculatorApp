@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景 - 紫色圆角正方形 -->
+  <rect x="8" y="8" width="240" height="240" rx="48" fill="#5B2C8E"/>
+  
+  <!-- 计算器主体 -->
+  <rect x="48" y="40" width="160" height="176" rx="16" fill="#FFFFFF" opacity="0.95"/>
+  
+  <!-- 显示屏 -->
+  <rect x="60" y="52" width="136" height="48" rx="8" fill="#F0F0F0"/>
+  
+  <!-- 等号符号 -->
+  <text x="128" y="86" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#5B2C8E" text-anchor="middle">=</text>
+  
+  <!-- 按钮行1 -->
+  <rect x="60" y="112" width="36" height="28" rx="6" fill="#5B2C8E" opacity="0.8"/>
+  <rect x="110" y="112" width="36" height="28" rx="6" fill="#5B2C8E" opacity="0.8"/>
+  <rect x="160" y="112" width="36" height="28" rx="6" fill="#5B2C8E" opacity="0.8"/>
+  
+  <!-- 按钮行2 -->
+  <rect x="60" y="152" width="36" height="28" rx="6" fill="#5B2C8E" opacity="0.6"/>
+  <rect x="110" y="152" width="36" height="28" rx="6" fill="#5B2C8E" opacity="0.6"/>
+  <rect x="160" y="152" width="36" height="28" rx="6" fill="#5B2C8E" opacity="0.6"/>
+  
+  <!-- 按钮行3 -->
+  <rect x="60" y="192" width="86" height="28" rx="6" fill="#5B2C8E" opacity="0.9"/>
+  <rect x="160" y="192" width="36" height="28" rx="6" fill="#7B4CAE" opacity="0.9"/>
+</svg>
