@@ -9,6 +9,10 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
+# AI Skills (not part of project code)
+skills/
+.agents/
+
 # Visual Studio cache/options
 .vs/
 *.suo
