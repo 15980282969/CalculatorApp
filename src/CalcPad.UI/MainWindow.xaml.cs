@@ -57,6 +57,9 @@ namespace CalcPad.UI
                         }
                     }
                 }
+                
+                // 将焦点设置到输入框
+                InputTextBox.Focus();
             };
             
             // 注册窗口尺寸变化事件

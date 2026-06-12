@@ -273,7 +273,7 @@
                 </Grid.ColumnDefinitions>
 
                 <!-- 输入框 -->
-                <TextBox Grid.Column="0"
+                <TextBox x:Name="InputTextBox" Grid.Column="0"
                         Text="{Binding InputExpression, UpdateSourceTrigger=PropertyChanged}"
                         Style="{StaticResource CalcInputBox}"
                         materialDesign:HintAssist.Hint="输入计算公式..."
